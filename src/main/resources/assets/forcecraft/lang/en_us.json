@@ -1,0 +1,17 @@
+{
+  "itemGroup.forcecraft_tab": "ForceCraft",
+  "item.forcecraft.kyber_crystal": "Kyber Crystal",
+  "block.forcecraft.kyber_ore": "Kyber Ore",
+  "item.forcecraft.lightsaber_green": "Lightsaber (Green)",
+  "item.forcecraft.lightsaber_red": "Lightsaber (Red)",
+  "item.forcecraft.lightsaber_purple": "Lightsaber (Purple)",
+  "item.forcecraft.lightsaber_yellow": "Lightsaber (Yellow)",
+  "item.forcecraft.lightsaber_blue": "Lightsaber (Blue)",
+  "item.forcecraft.lightsaber_hilt": "Lightsaber Hilt",
+  "item.forcecraft.lightsaber_double": "Double Bladed Lightsaber",
+  "item.forcecraft.jedi_hood": "Jedi Hood",
+  "item.forcecraft.jedi_robe": "Jedi Robe",
+  "item.forcecraft.jedi_pants": "Jedi Pants",
+  "item.forcecraft.jedi_boots": "Jedi Boots",
+  "item.forcecraft.dc15_blaster": "DC-15 Blaster"
+}

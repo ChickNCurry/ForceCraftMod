@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "overrides": [
+    { "predicate": { "lightsaber_state": 0 }, "model": "forcecraft:item/lightsaber_yellow_alt_hilt" },
+    { "predicate": { "lightsaber_state": 1 }, "model": "forcecraft:item/lightsaber_yellow_alt_on" }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lightsaber_swing": {
+    "category" : "player",
+    "sounds": [{
+      "name": "forcecraft:sweep4",
+      "stream": false
+    }
+    ]
+  },
+  "lightsaber_ignition": {
+    "category" : "player",
+    "sounds": [{
+      "name": "forcecraft:ignition",
+      "stream": false
+    }
+    ]
+  },
+  "blaster_blast": {
+    "category" : "player",
+    "sounds": [{
+      "name": "forcecraft:blast1",
+      "stream": false
+    }
+    ]
+  },
+  "lightsaber_extinguishment": {
+    "category" : "player",
+    "sounds": [{
+      "name": "forcecraft:extinguish",
+      "stream": false
+    }
+    ]
+  }
+}

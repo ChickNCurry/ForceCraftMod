@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#  ",
+        " F ",
+        "  Q"
+    ],
+    "key": {
+        "#": {
+            "item": "forcecraft:my_lightsaber_emitter"
+        },
+        "F": {
+            "item": "forcecraft:my_lightsaber_switch"
+        },
+        "Q": {
+            "item": "forcecraft:my_lightsaber_grip"
+        }
+    },
+    "result": {
+        "item": "forcecraft:my_lightsaber_off",
+        "count": 1
+    }
+}

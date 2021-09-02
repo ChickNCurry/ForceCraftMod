@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "forcecraft:electronics"
+    },
+    {
+      "item": "forcecraft:my_lightsaber_off"
+    },
+    {
+      "item": "forcecraft:kyber_crystal"
+    }
+  ],
+  "result": {
+    "item": "forcecraft:my_lightsaber",
+    "count": 1
+  }
+}
